@@ -16,7 +16,7 @@
 2116942013|00000000||To cast a Sign, press <<CastSign>><br><br>Signs and certain other actions cost Vigor. Before you can cast a Sign again, you need to wait for your Vigor to regenerate.
 2116942014|257f1e14||When you enter combat, there's a $I$ percent chance you will automatically get a Quen shield without using any Vigor.
 2116942015|8ed43e3e||After using Vigor to cast a Sign in its standard mode, the next Sign cast within $S$ seconds will be cast in standard mode without using Vigor.
-2116942016|739e1e2d||Attacks dealt from behind have $S$% more damage and stun opponents at the cost of $S$ Adrenaline.
+2116942016|00000000||Attacks dealt from behind have $S$% more damage and stun opponents at the cost of $S$ Adrenaline.
 2116942017|bcff1d6b||Sundering Blows
 2116942018|00000000||Vigor
 2116942019|00000000||Vigor steadily regenerates on its own and is influenced by your Health and Adrenaline.<br><br>Certain Abilities you can acquire allow you to perform special actions that require and consume Vigor.<br><br>Your Vigor decreases when you get hit by enemy attacks and a regeneration delay is incurred for a short time.

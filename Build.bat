@@ -1,0 +1,1 @@
+.\w3strings.exe --encode loc.csv --force-ignore-id-space-check-i-know-what-i-am-doing
